@@ -1,0 +1,7 @@
+interface:
+  display_name: "NE 引文插入"
+  short_description: "用 NoteExpress 写入 Word 可更新引文字段。"
+  default_prompt: "Use $NE引文插入skills to create NoteExpress records, insert NE.Ref/NE.Bib fields into a Word manuscript, and audit citation closure."
+
+policy:
+  allow_implicit_invocation: true
